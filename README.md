@@ -1,6 +1,8 @@
 # comment_toxicity
 This project develops a deep learning–based model in Python to detect and classify toxic comments (harassment, hate speech, offensive language) in real time. The system helps maintain healthier online communication by flagging harmful content for moderation.
 # Deep Learning for Comment Toxicity Detection with Streamlit
+<img width="885" height="475" alt="image" src="https://github.com/user-attachments/assets/c47ad35d-c2d3-4edd-856e-b2634060d1c9" />
+
 
 ## Skills Takeaway
 - Deep Learning  
